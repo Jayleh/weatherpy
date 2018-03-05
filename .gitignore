@@ -8,3 +8,6 @@ __pycache__/
 
 # OWM Key
 config.py
+
+# PDF files
+*.pdf
